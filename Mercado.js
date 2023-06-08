@@ -8,9 +8,6 @@ console.log ("Preço do queijo:", preço_do_queijo);
 
 preço_do_leite = 8;
 
-8 * 8
-
-
 
 
 
